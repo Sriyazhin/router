@@ -1,0 +1,23 @@
+.maindivision{
+    display: flex;
+}
+.subdivision{
+    padding-top: 280px;
+}
+.log{
+    padding-top: 200px;
+}
+.mainlist{
+    width: 300px;
+    
+}
+ul{
+    list-style: none;
+    background-color: rgb(165, 165, 164,0.2);
+    width: 200px;
+    margin-top: 200px;
+}
+li{
+    margin-bottom: 30px;
+    font-size: large;
+}
